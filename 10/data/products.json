@@ -1,0 +1,32 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": 1200,
+    "amount": 15
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "price": 1000,
+    "amount": 0
+  },
+  {
+    "name": "Sony WH-1000XM5",
+    "price": 400,
+    "amount": 50
+  },
+  {
+    "name": "MacBook Pro 14",
+    "price": 2500,
+    "amount": 10
+  },
+  {
+    "name": "Nintendo Switch",
+    "price": 300,
+    "amount": 35
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "price": 150,
+    "amount": 0
+  }
+]

@@ -12,27 +12,9 @@
         "gender": "male"
     },
     {
-        "name": "Tomislav Nikolic",
-        "age": 31,
-        "height": 181,
-        "gender": "male"
-    },
-    {
-        "name": "Marija Milinkovic",
+        "name": "Jelena Grozdic",
         "age": 22,
         "height": 170,
         "gender": "female"
-    },
-    {
-        "name": "Petar Petrovic",
-        "age": 35,
-        "height": 190,
-        "gender": "male"
-    },
-    {
-        "name": "Petar Petrovic",
-        "age": 35,
-        "height": 190,
-        "gender": "male"
     }
 ]
