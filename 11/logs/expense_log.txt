@@ -1,0 +1,4 @@
+
+Amount: 34000, User: 1, Budget: 93000, Preostali budzet: 59000,  Date: 2024-12-31 Time: <class 'datetime.time'>
+Amount: 37000, User: 1, Budget: 93000, Preostali budzet: 56000,  Date: 2024-12-31
+Amount: 37000, User: 1, Budget: 93000, Preostali budzet: 56000,  Date: 2024-12-31 18:13:53.483545
