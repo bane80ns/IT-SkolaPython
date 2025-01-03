@@ -1008,7 +1008,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="291" parent="1" name="python_db_test">
-      <LastIntrospectionLocalTimestamp>2025-01-02.15:05:33</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-01-02.19:47:24</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="292" parent="1" name="sys">
