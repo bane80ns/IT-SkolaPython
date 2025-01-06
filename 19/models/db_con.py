@@ -1,5 +1,4 @@
 import pymysql
-
 db_name = "library"
 
 connection = pymysql.connect(
@@ -7,6 +6,7 @@ connection = pymysql.connect(
     user='root', # username created for accessing DB (Database)
     password='root', # password created for accessing DB
     database=db_name, # DB name
+    cursorclass=pymysql.cursors.DictCursor
 #   port=xxxx # Port which we use for connecting to DB (in our case not needed)
 )
 
