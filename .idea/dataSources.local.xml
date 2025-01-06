@@ -17,6 +17,7 @@
             <name qname="python713" />
             <name qname="python_db_test" />
             <name qname="library" />
+            <name qname="oop2_test" />
           </node>
         </introspection-scope>
       </schema-mapping>
